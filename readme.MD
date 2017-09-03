@@ -1,10 +1,10 @@
 # Sorting algorthim implementation in Python #
 
 Sorting algorthims implementated:
-	* Insertion Sort
-	* Merge Sort
-	* Quick Sort
-	* Modified Quick Sort
+* Insertion Sort
+* Merge Sort
+* Quick Sort
+* Modified Quick Sort
 
 Generates results in a csv file.
 
